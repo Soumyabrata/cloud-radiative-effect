@@ -27,4 +27,4 @@ All input dataset can be found in the folder `./input`.
 ### Reproducibility 
 In addition to all the related codes, we have also shared the generated results. These files are contained in the folder `./results`.
 
-The program `./Cloud Radiative Effect Study Using Sky Camera.ipynb` is the main script, that reproduces all the results. It uses different helper scripts stored in the folder `./helperFunctions`. It also reproduces the figures and tables in this associated paper.
+The program `./Cloud Radiative Effect Study Using Sky Camera.ipynb` is the main script, that reproduces all the results. It uses different helper scripts stored in the folder `./helperFunctions`. It also reproduces the figures in this associated paper.
